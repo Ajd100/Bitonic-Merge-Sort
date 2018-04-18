@@ -71,6 +71,7 @@ public class bitonicSort {
 
 			// sort in ascending order
 			bitonicSort(a, low, k, 1);
+			//This is to print the entire swapping process of the first half
 			/* for(int i = 0; i < a.length; ++i){
 				System.out.print(a[i] + " ");
 			}
